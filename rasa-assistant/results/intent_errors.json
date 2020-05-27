@@ -1,0 +1,130 @@
+[
+  {
+    "text": "Hi bot",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6899132132530212
+    }
+  },
+  {
+    "text": "goodbye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9999420046806335
+    }
+  },
+  {
+    "text": "goodnight",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8341277241706848
+    }
+  },
+  {
+    "text": "good bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9627209901809692
+    }
+  },
+  {
+    "text": "good night",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5011808276176453
+    }
+  },
+  {
+    "text": "see ya",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9924608469009399
+    }
+  },
+  {
+    "text": "toodle-oo",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3329865336418152
+    }
+  },
+  {
+    "text": "bye bye",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9998757243156433
+    }
+  },
+  {
+    "text": "gotta go",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5209758281707764
+    }
+  },
+  {
+    "text": "farewell",
+    "intent": "bye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3855772316455841
+    }
+  },
+  {
+    "text": "Thanks",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.6583238840103149
+    }
+  },
+  {
+    "text": "Thank you",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7055814862251282
+    }
+  },
+  {
+    "text": "Thank you so much",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5092145204544067
+    }
+  },
+  {
+    "text": "Thanks bot",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6955301761627197
+    }
+  },
+  {
+    "text": "Thanks for that",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5629659295082092
+    }
+  },
+  {
+    "text": "cheers",
+    "intent": "thank",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.952155351638794
+    }
+  }
+]
