@@ -1,0 +1,12 @@
+intents:
+  - grüßen
+  - wiedersehen
+  - danke
+
+responses:
+  utter_Schneereien:
+    - text: Keine Sorgen!
+  utter_Gruß:
+    - text: Hallo
+  utter_Wiedersehen:
+    - text: Auf Wiedersehen!
